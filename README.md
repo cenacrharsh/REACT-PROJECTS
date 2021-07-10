@@ -8,7 +8,7 @@ No. | Project        | GitHub Repo            | Demo
 02| Meme Generator | [GitHub Repo](https://github.com/cenacrharsh/meme-generator-react) | [Meme Generator](https://cenacrharsh.github.io/meme-generator-react/) ✅
 03| Photo Editor | [GitHub Repo](challenge-files/03%20-%20CSS%20Variables/) | [Photo Editor](https://cenacrharsh.github.io/photo-editor-react-app/) ✅
 04| Currency Converter | [GitHub Repo]() | [Currency Converter]() ✅
-05| - | []() | []() ✅
+05| Pet Adoption App | [GitHub Repo](https://github.com/cenacrharsh/pet-adoption-app-react) | [PetAdoption App](https://cenacrharsh.github.io/pet-adoption-app-react/) ✅
 06| - | []() | []() ✅
 07| - | []() | []() ✅
 08| - | []() | []() ✅
@@ -19,8 +19,8 @@ No. | Project        | GitHub Repo            | Demo
 
 No. | Project        | GitHub Repo            | Demo
 --|-----------|------------------------|---
-01| - | []() | []() ✅
-02| - | []() | []() ✅
+01| Shopping Cart | [GitHub Repo](https://github.com/cenacrharsh/shopping-cart-react-app) | [Demo](https://cenacrharsh.github.io/shopping-cart-react-app/) ✅
+02| Movie App | [GitHub Repo](https://github.com/cenacrharsh/movie-app-redux) | [Movie App](https://cenacrharsh.github.io/movie-app-redux/) ✅
 03| - | []() | []() ✅
 04| - | []() | []() ✅
 05| - | []() | []() ✅
