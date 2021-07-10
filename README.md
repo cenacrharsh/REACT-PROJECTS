@@ -2,7 +2,7 @@
 
 # BEGINNER
 
-|   	|   	|   	|   	|
+| No.   	| Project  	| GitHub Repo  	| Demo 	|
 |:-:	|---	|---	|---	|
 |   	|   	|   	|   	|
 |   	|   	|   	|   	|
