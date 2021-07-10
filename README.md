@@ -2,9 +2,9 @@
 
 # BEGINNER
 
-Nº | Day        | Description            | Status
+No. | Project        | GitHub Repo            | Demo
 --|-----------|------------------------|---
-01|04/27/2020 |[JavaScript Drum Kit](challenge-files/01%20-%20JavaScript%20Drum%20Kit/) | ✅
+01|Todo List | [GitHub Repo](https://github.com/cenacrharsh/todo-list-react-app) | [Demo](https://cenacrharsh.github.io/todo-list-react-app/)
 02|04/28/2020 |[JS and CSS Clock](challenge-files/02%20-%20JS%20and%20CSS%20Clock/) | ✅
 03|04/29/2020 |[CSS Variables](challenge-files/03%20-%20CSS%20Variables/) | ✅
 04|04/30 - 05/02/2020 |[Array Cardio Day 01](challenge-files/04%20-%20Array%20Cardio%20Day%201/) | ✅
