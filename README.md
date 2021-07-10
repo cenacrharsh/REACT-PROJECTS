@@ -1,4 +1,4 @@
-<h1 align=center> REACT PROJECTS </h1>
+<h1 align=center> REACT PROJECTS ⚛ </h1>
 
 # BEGINNER
 
