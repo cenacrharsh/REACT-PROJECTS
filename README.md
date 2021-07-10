@@ -6,7 +6,7 @@ No. | Project        | GitHub Repo            | Demo
 --|-----------|------------------------|---
 01|Todo List | [GitHub Repo](https://github.com/cenacrharsh/todo-list-react-app) | [Todo List](https://cenacrharsh.github.io/todo-list-react-app/) ✅
 02|Meme Generator | [GitHub Repo](https://github.com/cenacrharsh/meme-generator-react) | [Meme Generator](https://cenacrharsh.github.io/meme-generator-react/) ✅
-03|04/29/2020 |[CSS Variables](challenge-files/03%20-%20CSS%20Variables/) | ✅
+03|Photo Editor |[GitHub Repo](challenge-files/03%20-%20CSS%20Variables/) | [Photo Editor](https://cenacrharsh.github.io/photo-editor-react-app/) ✅
 04|04/30 - 05/02/2020 |[Array Cardio Day 01](challenge-files/04%20-%20Array%20Cardio%20Day%201/) | ✅
 05|05/03/2020 |[Flex Panel Image Gallery](challenge-files/05%20-%20Flex%20Panel%20Gallery/) | ✅
 06|05/04/2020 |[Type Ahead](challenge-files/06%20-%20Type%20Ahead/) | ✅♻
