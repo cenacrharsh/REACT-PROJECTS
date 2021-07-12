@@ -8,7 +8,7 @@ No. | Project        | GitHub Repo            | Demo
 02| Meme Generator | [GitHub Repo](https://github.com/cenacrharsh/meme-generator-react) | [Meme Generator](https://cenacrharsh.github.io/meme-generator-react/) ✅
 03| Photo Editor | [GitHub Repo](challenge-files/03%20-%20CSS%20Variables/) | [Photo Editor](https://cenacrharsh.github.io/photo-editor-react-app/) ✅
 04| Currency Converter | [GitHub Repo]() | [Currency Converter]() ✅
-05| - | []() | []() ✅
+05| Pokemon Pagination | [GitHub Repo](https://github.com/cenacrharsh/pokemon-pagination-app-react) | [Pokemon Pagination](https://cenacrharsh.github.io/pokemon-pagination-app-react/) ✅
 06| - | []() | []() ✅
 07| - | []() | []() ✅
 08| - | []() | []() ✅
