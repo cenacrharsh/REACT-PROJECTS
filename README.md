@@ -34,7 +34,7 @@ No. | Project        | GitHub Repo            | Demo
 
 No. | Project        | GitHub Repo            | Demo
 --|-----------|------------------------|---
-01| - | []() | []() ✅
+01| React Movie App | [GitHub Repo](https://github.com/cenacrharsh/react-movie-app) | [React Movie App](https://react-movie-app-project.netlify.app/) ✅
 02| - | []() | []() ✅
 03| - | []() | []() ✅
 04| - | []() | []() ✅
