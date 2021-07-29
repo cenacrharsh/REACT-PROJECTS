@@ -24,7 +24,7 @@ No. | Project        | GitHub Repo            | Demo
 03| Pet Adoption App | [GitHub Repo](https://github.com/cenacrharsh/pet-adoption-app-react) | [PetAdoption App](https://cenacrharsh.github.io/pet-adoption-app-react/) ✅
 04| Codepen Clone | [GitHub Repo](https://github.com/cenacrharsh/codepen-clone-react) | [Codepen Clone](https://cenacrharsh.github.io/codepen-clone-react/) ✅
 05| Infinite Scrolling | [GitHub Repo](https://github.com/cenacrharsh/infinite-scrolling-react) | [Infinite Scrolling](https://cenacrharsh.github.io/infinite-scrolling-react/) ✅
-06| - | []() | []() ✅
+06| FlashCard Quiz App React | [GitHub Repo](https://github.com/cenacrharsh/flashcard-quiz-app-react) | [FlashCard Quiz App React](https://cenacrharsh.github.io/flashcard-quiz-app-react/) ✅
 07| - | []() | []() ✅
 08| - | []() | []() ✅
 09| - | []() | []() ✅
